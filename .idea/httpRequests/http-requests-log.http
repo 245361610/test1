@@ -1,0 +1,10 @@
+GET http://localhost:3001/order-service/{orderId}
+
+###
+
+GET http://localhost:3001/order-service
+
+<> 2019-09-29T040850.200.json
+
+###
+
