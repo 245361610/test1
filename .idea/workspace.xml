@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbf283-15c5-4770-ae36-e89c39252d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-09-29T040850.200.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Item.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Order.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/User.class" afterDir="false" />
@@ -15,6 +12,8 @@
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonResult.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil$1.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,10 +62,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="191">
+              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sp04-orderservice/src/main/java/com/tedu/sp04/order/service/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/sp04-orderservice/src/main/java/com/tedu/sp04/order/service/OrderController.java" />
         <option value="$PROJECT_DIR$/sp04-orderservice/src/main/java/com/tedu/sp04/order/controller/OrderController.java" />
         <option value="$PROJECT_DIR$/../sp05-eureka/src/main/java/com/tedu/sp05/Sp05EurekaApplication.java" />
@@ -152,6 +159,7 @@
         <option value="$PROJECT_DIR$/../sp04-orderservice/src/main/java/com/tedu/sp04/AccessFilter.java" />
         <option value="$PROJECT_DIR$/../sp11-zuul/src/main/java/com/tedu/sp11/AccessFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git" />
       </list>
     </option>
   </component>
@@ -189,7 +197,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="760" />
     <option name="y" value="92" />
     <option name="width" value="1185" />
@@ -209,6 +217,32 @@
             <path>
               <item name="sp01commons" type="b2602c69:ProjectViewProjectNode" />
               <item name="sp01commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp01commons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp01commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp01commons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp01commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp01commons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp01commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp01commons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp01commons" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -436,15 +470,15 @@
       <item itemvalue="HTTP Request.feignStart#1" />
       <item itemvalue="HTTP Request.feignStart#2" />
       <item itemvalue="Spring Boot.itemStart-8001" />
-      <item itemvalue="Spring Boot.itemStart-8002" />
       <item itemvalue="Spring Boot.UserStart" />
       <item itemvalue="Spring Boot.eurekaStart-1" />
-      <item itemvalue="Spring Boot.eurekaStart-2" />
       <item itemvalue="Spring Boot.orderStart-1" />
+      <item itemvalue="Spring Boot.ZuulStart" />
+      <item itemvalue="Spring Boot.itemStart-8002" />
+      <item itemvalue="Spring Boot.eurekaStart-2" />
       <item itemvalue="Spring Boot.orderStart-2" />
       <item itemvalue="Spring Boot.HystrixDashboardStart" />
       <item itemvalue="Spring Boot.turbineStart" />
-      <item itemvalue="Spring Boot.ZuulStart" />
     </list>
     <recent_temporary>
       <list>
@@ -468,7 +502,7 @@
       <workItem from="1569544024587" duration="24098000" />
       <workItem from="1569715462955" duration="24447000" />
       <workItem from="1569767795457" duration="255000" />
-      <workItem from="1569804599199" duration="13706000" />
+      <workItem from="1569804599199" duration="15498000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1569825447519</created>
@@ -491,16 +525,31 @@
       <option name="project" value="LOCAL" />
       <updated>1569826122739</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2">
+      <created>1569826544811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569826544811</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ceshi">
+      <created>1569826921807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569826921807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86715000" />
+    <option name="totallyTimeSpent" value="88507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="74" width="948" height="696" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646392" visible="true" weight="0.35842696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646392" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" sideWeight="0.50353605" side_tool="true" weight="0.2044818" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -522,7 +571,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.33521923" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.25977653" />
       <window_info anchor="bottom" id="Package References" order="15" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" weight="0.32914925" />
       <window_info anchor="bottom" id="Messages" order="17" />
@@ -587,33 +636,42 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="ceshi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../sp08-hystrix-dashboard/src/main/java/com/tedu/sp08/Sp08HystrixDashboardApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp03-userservice/src/main/java/com/tedu/sp03/Sp03UserserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../repoBoot/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -1001,13 +1059,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sp01commons.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="191">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
