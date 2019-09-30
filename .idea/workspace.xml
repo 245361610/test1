@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42bbf283-15c5-4770-ae36-e89c39252d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/ItemService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/sp01/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/CookieUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/web/util/JsonUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git" afterDir="false" />
     </list>
@@ -65,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -502,7 +492,7 @@
       <workItem from="1569544024587" duration="24098000" />
       <workItem from="1569715462955" duration="24447000" />
       <workItem from="1569767795457" duration="255000" />
-      <workItem from="1569804599199" duration="15498000" />
+      <workItem from="1569804599199" duration="16085000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1569825447519</created>
@@ -539,15 +529,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569826921807</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ceshi  vc">
+      <created>1569828554568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569828554568</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ceshi  vc">
+      <created>1569828659154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569828659154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88507000" />
+    <option name="totallyTimeSpent" value="89094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646392" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" sideWeight="0.50353605" side_tool="true" weight="0.2044818" />
@@ -665,7 +668,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <MESSAGE value="ceshi" />
-    <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
+    <MESSAGE value="ceshi  vc" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshi  vc" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1075,7 +1079,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tedu/sp01/pojo/git">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
